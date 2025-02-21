@@ -3349,6 +3349,10 @@
             "libraryName": "latest-version",
             "asOfVersion": "5.0.0"
         },
+        "lazy-brush": {
+            "libraryName": "lazy-brush",
+            "asOfVersion": "2.0.0"
+        },
         "lazy-value": {
             "libraryName": "lazy-value",
             "asOfVersion": "2.0.0"
@@ -3617,6 +3621,10 @@
             "libraryName": "material-components-web",
             "asOfVersion": "1.0.0"
         },
+        "material-ui-phone-number": {
+            "libraryName": "material-ui-phone-number",
+            "asOfVersion": "3.0.0"
+        },
         "material__animation": {
             "libraryName": "@material/animation",
             "asOfVersion": "1.0.0"
@@ -3792,6 +3800,94 @@
         "metalsmith": {
             "libraryName": "metalsmith",
             "asOfVersion": "2.6.0"
+        },
+        "metascraper": {
+            "libraryName": "metascraper",
+            "asOfVersion": "5.41.0"
+        },
+        "metascraper-amazon": {
+            "libraryName": "metascraper-amazon",
+            "asOfVersion": "5.42.0"
+        },
+        "metascraper-audio": {
+            "libraryName": "metascraper-audio",
+            "asOfVersion": "5.42.0"
+        },
+        "metascraper-author": {
+            "libraryName": "metascraper-author",
+            "asOfVersion": "5.42.0"
+        },
+        "metascraper-clearbit": {
+            "libraryName": "metascraper-clearbit",
+            "asOfVersion": "5.42.0"
+        },
+        "metascraper-date": {
+            "libraryName": "metascraper-date",
+            "asOfVersion": "5.42.3"
+        },
+        "metascraper-description": {
+            "libraryName": "metascraper-description",
+            "asOfVersion": "5.42.0"
+        },
+        "metascraper-iframe": {
+            "libraryName": "metascraper-iframe",
+            "asOfVersion": "5.42.0"
+        },
+        "metascraper-image": {
+            "libraryName": "metascraper-image",
+            "asOfVersion": "5.42.0"
+        },
+        "metascraper-lang": {
+            "libraryName": "metascraper-lang",
+            "asOfVersion": "5.42.0"
+        },
+        "metascraper-logo": {
+            "libraryName": "metascraper-logo",
+            "asOfVersion": "5.42.0"
+        },
+        "metascraper-logo-favicon": {
+            "libraryName": "metascraper-logo-favicon",
+            "asOfVersion": "5.42.0"
+        },
+        "metascraper-media-provider": {
+            "libraryName": "metascraper-media-provider",
+            "asOfVersion": "5.42.0"
+        },
+        "metascraper-publisher": {
+            "libraryName": "metascraper-publisher",
+            "asOfVersion": "5.42.0"
+        },
+        "metascraper-readability": {
+            "libraryName": "metascraper-readability",
+            "asOfVersion": "5.42.0"
+        },
+        "metascraper-soundcloud": {
+            "libraryName": "metascraper-soundcloud",
+            "asOfVersion": "5.42.0"
+        },
+        "metascraper-spotify": {
+            "libraryName": "metascraper-spotify",
+            "asOfVersion": "5.42.0"
+        },
+        "metascraper-title": {
+            "libraryName": "metascraper-title",
+            "asOfVersion": "5.42.0"
+        },
+        "metascraper-uol": {
+            "libraryName": "metascraper-uol",
+            "asOfVersion": "5.42.0"
+        },
+        "metascraper-url": {
+            "libraryName": "metascraper-url",
+            "asOfVersion": "5.42.3"
+        },
+        "metascraper-video": {
+            "libraryName": "metascraper-video",
+            "asOfVersion": "5.42.0"
+        },
+        "metascraper-youtube": {
+            "libraryName": "metascraper-youtube",
+            "asOfVersion": "5.42.0"
         },
         "metismenu": {
             "libraryName": "metismenu",
@@ -6087,6 +6183,10 @@
             "libraryName": "@simonwep/selection-js",
             "asOfVersion": "1.7.0"
         },
+        "simple-diff": {
+            "libraryName": "simple-diff",
+            "asOfVersion": "1.7.0"
+        },
         "simple-icons": {
             "libraryName": "simple-icons",
             "asOfVersion": "5.21.0"
@@ -6843,6 +6943,10 @@
             "libraryName": "url-regex",
             "asOfVersion": "5.0.0"
         },
+        "urlencode": {
+            "libraryName": "urlencode",
+            "asOfVersion": "2.0.0"
+        },
         "urllib": {
             "libraryName": "urllib",
             "asOfVersion": "2.33.0"
@@ -7450,6 +7554,10 @@
         "zookeeper": {
             "libraryName": "zookeeper",
             "asOfVersion": "4.6.0"
+        },
+        "zrender": {
+            "libraryName": "zrender",
+            "asOfVersion": "5.0.0"
         }
     }
 }
