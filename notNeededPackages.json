@@ -184,6 +184,10 @@
             "libraryName": "aphrodite",
             "asOfVersion": "2.0.0"
         },
+        "apimatic__json-bigint": {
+            "libraryName": "@apimatic/json-bigint",
+            "asOfVersion": "1.1.0"
+        },
         "apn": {
             "libraryName": "apn",
             "asOfVersion": "2.1.2"
@@ -1769,6 +1773,10 @@
             "libraryName": "eslint-visitor-keys",
             "asOfVersion": "3.3.0"
         },
+        "eslint__js": {
+            "libraryName": "@eslint/js",
+            "asOfVersion": "9.14.0"
+        },
         "esm-utils": {
             "libraryName": "esm-utils",
             "asOfVersion": "2.0.1"
@@ -1989,6 +1997,10 @@
             "libraryName": "fetch-jsonp",
             "asOfVersion": "1.1.0"
         },
+        "fetch-mock": {
+            "libraryName": "fetch-mock",
+            "asOfVersion": "9.2.2"
+        },
         "ffmpeg-installer__ffmpeg": {
             "libraryName": "@ffmpeg-installer/ffmpeg",
             "asOfVersion": "1.1.0"
@@ -2077,6 +2089,10 @@
             "libraryName": "flatpickr",
             "asOfVersion": "3.1.2"
         },
+        "fluent-reveal-effect": {
+            "libraryName": "fluent-reveal-effect",
+            "asOfVersion": "3.0.3"
+        },
         "fluent__bundle": {
             "libraryName": "@fluent/bundle",
             "asOfVersion": "0.15.0"
@@ -2136,6 +2152,10 @@
         "framebus": {
             "libraryName": "framebus",
             "asOfVersion": "4.0.0"
+        },
+        "franc": {
+            "libraryName": "franc",
+            "asOfVersion": "6.0.0"
         },
         "fromnow": {
             "libraryName": "fromnow",
@@ -2480,6 +2500,10 @@
         "hcaptcha__react-hcaptcha": {
             "libraryName": "@hcaptcha/react-hcaptcha",
             "asOfVersion": "0.3.7"
+        },
+        "hcaptcha__vue-hcaptcha": {
+            "libraryName": "@hcaptcha/vue-hcaptcha",
+            "asOfVersion": "0.3.0"
         },
         "hedron": {
             "libraryName": "hedron",
@@ -3284,6 +3308,10 @@
         "keyv__sqlite": {
             "libraryName": "@keyv/sqlite",
             "asOfVersion": "3.0.1"
+        },
+        "kiwicom__orbit-design-tokens": {
+            "libraryName": "@kiwicom/orbit-design-tokens",
+            "asOfVersion": "1.5.2"
         },
         "knex": {
             "libraryName": "knex",
@@ -4604,6 +4632,10 @@
         "parse-duration": {
             "libraryName": "parse-duration",
             "asOfVersion": "0.3.0"
+        },
+        "parse-json": {
+            "libraryName": "parse-json",
+            "asOfVersion": "7.0.0"
         },
         "parse-ms": {
             "libraryName": "parse-ms",
@@ -6015,6 +6047,10 @@
             "libraryName": "rollup-plugin-sourcemaps",
             "asOfVersion": "0.5.0"
         },
+        "rollup-plugin-visualizer": {
+            "libraryName": "rollup-plugin-visualizer",
+            "asOfVersion": "5.0.3"
+        },
         "rollup__plugin-virtual": {
             "libraryName": "@rollup/plugin-virtual",
             "asOfVersion": "3.0.0"
@@ -6034,6 +6070,10 @@
         "router5": {
             "libraryName": "router5",
             "asOfVersion": "5.0.0"
+        },
+        "rox-browser": {
+            "libraryName": "rox-browser",
+            "asOfVersion": "5.2.0"
         },
         "rrule": {
             "libraryName": "rrule",
@@ -6114,6 +6154,10 @@
         "seatsio": {
             "libraryName": "@seatsio/seatsio-types",
             "asOfVersion": "2.0.0"
+        },
+        "selfsigned": {
+            "libraryName": "selfsigned",
+            "asOfVersion": "2.1.0"
         },
         "semver-diff": {
             "libraryName": "semver-diff",
@@ -6610,6 +6654,10 @@
         "svgo": {
             "libraryName": "svgo",
             "asOfVersion": "3.0.0"
+        },
+        "svgr__rollup": {
+            "libraryName": "@svgr/rollup",
+            "asOfVersion": "6.0.0"
         },
         "swagger-parser": {
             "libraryName": "swagger-parser",
